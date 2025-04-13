@@ -1,0 +1,115 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Consultoria de Corte com IA</title>
+  <style>
+    * {
+      margin: 0;
+      padding: 0;
+      box-sizing: border-box;
+      font-family: 'Segoe UI', sans-serif;
+    }
+
+    body {
+      background: linear-gradient(to right, #dfe9f3, #ffffff);
+      color: #333;
+    }
+
+    header {
+      background-color: #2d3e50;
+      color: white;
+      padding: 20px;
+      text-align: center;
+    }
+
+    header h1 {
+      font-size: 2rem;
+    }
+
+    section {
+      max-width: 900px;
+      margin: 40px auto;
+      padding: 20px;
+      text-align: center;
+    }
+
+    section h2 {
+      font-size: 1.8rem;
+      margin-bottom: 20px;
+    }
+
+    section p {
+      font-size: 1.1rem;
+      line-height: 1.6;
+      margin-bottom: 30px;
+    }
+
+    .button {
+      display: inline-block;
+      background-color: #4CAF50;
+      color: white;
+      padding: 14px 28px;
+      text-decoration: none;
+      font-size: 1.1rem;
+      border-radius: 5px;
+      transition: background 0.3s ease;
+    }
+
+    .button:hover {
+      background-color: #45a049;
+    }
+
+    footer {
+      text-align: center;
+      padding: 20px;
+      background-color: #2d3e50;
+      color: white;
+    }
+
+    @media (max-width: 600px) {
+      header h1, section h2 {
+        font-size: 1.4rem;
+      }
+
+      .button {
+        padding: 10px 20px;
+        font-size: 1rem;
+      }
+    }
+  </style>
+</head>
+<body>
+
+  <header>
+    <h1>Consultoria de Corte com IA</h1>
+    <p>Descubra o corte de cabelo ideal com inteligência artificial</p>
+  </header>
+
+  <section>
+    <h2>Como funciona?</h2>
+    <p>
+      Usamos inteligência artificial para te ajudar a escolher o melhor corte de cabelo para o seu rosto. 
+      Basta enviar uma selfie e experimentar estilos diferentes com apenas alguns cliques.
+    </p>
+
+    <a class="button" href="https://www.ifoto.ai/pt/ai-hairstyle-online-free" target="_blank">
+      Testar Agora Grátis
+    </a>
+  </section>
+
+  <section>
+    <h2>Por que usar IA para isso?</h2>
+    <p>
+      A IA analisa o formato do seu rosto, textura do cabelo e tendências modernas para sugerir os cortes mais harmoniosos. 
+      É rápido, divertido e gratuito!
+    </p>
+  </section>
+
+  <footer>
+    © 2025 Consultoria Visagista com IA
+  </footer>
+
+</body>
+</html>
